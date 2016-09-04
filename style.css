@@ -1,0 +1,84 @@
+*{margin:0;padding:0;border: none;}
+
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7; }
+  p {font-size: 17px;}
+  span {font-style: italic;}
+  .margin {margin-bottom: 45px;}
+  .pic1 { padding-top: 80px; padding-bottom: 30px;  }
+  figcaption { color: #e1e1e1; line-height: 1.4; }
+  .imgAll { width:280px; height:300px;  }
+  .para1 { font-size: 18px; }
+  .imgGallery { float: left; width:269px; height: 285px; margin: 0; padding: 0; display: block;  }
+
+  .bg-1 { 
+      background: #762e35; /* Pink */
+      color: #ffffff; }
+  .bg-2 { 
+      background-color: #273f28;
+      color: #ffffff; }
+  .bg-3 { 
+      background-color: #474e5d; 
+      color: #e1e1e1; }
+  .bg-4 { 
+      background-color: #ffffff;
+      color: #000000;
+      padding: 0; margin: 0; }
+  .bg-5 { 
+      background-color: #968a36;
+      color: #000000; }
+  .bg-6 { 
+      background-color: #2f2f2f; 
+      color: #fff; }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 30px;
+      width: 100%; }
+  .sec {
+      vertical-align: middle;
+      text-align: center;
+      background-color: rgba(0, 0, 0, 0.2); 
+      margin: 50px;
+      padding: 10px; }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      letter-spacing: 5px; }
+.navbar-brand {
+	font-size: 1.2em;
+}
+#myNavbar  li {
+font-size: 0.8em;	
+}	  
+.navbar-nav  li a:hover {
+      color: #f7558d !important; }
+  .bottom-symbol a { 
+      text-align: center; font-size: 50px; color: #000000; text-decoration: none; padding-bottom: 0;}
+  .imgdiv { margin-top: 100px;  }
+  .imgdiv1 { margin-bottom: 100px;  }
+
+.bottom-note  p{ margin-top: 80px;}
+.bottom-note .bottom-list li {
+list-style-type: none;
+display: inline;}
+
+.bottom-note .bottom-list li  a img{
+width: 45px;
+height: 30px;
+padding-right: 15px;
+}
+.btn {
+ border: 1px #000000 solid;
+ background-color: #ff6600;
+ color: #000000;
+ font-weight: 500;
+ }
+.form-group {
+text-align: center;
+}
+.fsize { font-size: 12px; font-wight: 300;}
